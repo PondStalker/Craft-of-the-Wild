@@ -24,7 +24,7 @@ They install by themselves: `2 - Play.bat` checks for a new version each time it
 a few MB). Your saves, your Minecraft world and the game built from your files stay.
 
 ## Found a bug?
-Message ducky: what went wrong, what you were doing, and roughly when.
+Message on Discord: what went wrong, what you were doing, and roughly when.
 
 A fan project, not affiliated with Nintendo, Mojang or Microsoft. No game code or assets are included; the licenses of
 the parts it uses are in the zip's `licenses` folder.
