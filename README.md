@@ -17,7 +17,8 @@ You play Minecraft as usual; Zelda's world, its weather, its people and its mons
 3. Double-click `2 - Play.bat`. The first time, Zelda asks for your game files and builds the game once (10-20
    minutes).
 
-The README inside the zip explains the controls and commands.
+Zelda starts from a 100% save that comes with it, so all of Hyrule is open. It's only put in place when you have no
+Zelda save yet: yours is never replaced. The README inside the zip explains the controls and commands.
 
 ## Updates
 They install by themselves: `2 - Play.bat` checks for a new version each time it starts and puts it in place (usually
